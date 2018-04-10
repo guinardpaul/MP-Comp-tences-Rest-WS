@@ -195,10 +195,15 @@ INSERT INTO competences (id, ref, description, cycle, abstract_domaine_id) VALUE
 (70, "CT 4.6", "Savoir les relations entre fonctions biologiques et santé.", "Cycle 4", 68),
 (71, "CT 4.7", "Connaitre corps humain, vivant, espèces.", "Cycle 4", 68),
 (72, "CT 4.8", "Connaître univers, matière, biosphère.", "Cycle 4", 68),
-(73, "CT 4.9", "Connaitre énergie, mouvement, force, "Cycle 4", 68);
+(73, "CT 4.9", "Connaitre énergie, mouvement, force", "Cycle 4", 68);
 
 -- domaine 5
 INSERT INTO domaines (id, ref, description, cycle) VALUES
 (74, "D5", "les représentations du monde et l'activité humaine", "Cycle 4");
 -- Competences domaine 5
+INSERT INTO competences (id, ref, description, cycle, abstract_domaine_id) VALUES
+(75, "CT 5.1", "L’espace et le temps : Identifier les enjeux du développement humain, appréhender les problématiques du développement humain.", "Cycle 4", 74),
+(76, "CT 5.2", "Découvertes scientifiques et techniques.", "Cycle 4", 74),
+(77, "CT 5.3", "Regrouper des objets en familles et lignées.", "Cycle 4", 74),
+(78, "CT 5.4", "Relier les évolutions technologiques aux inventions et innovations qui marquent des ruptures dans les solutions techniques.", "Cycle 4", 74);
 
