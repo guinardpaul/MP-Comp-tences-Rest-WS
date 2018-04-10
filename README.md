@@ -1,2 +1,3 @@
 # MP-WS Rest - MP Compétences
-MP-Compétences Rest WS
+
+Web Service Restfull développé avec Spring Boot pour l'application MP-Compétences (client javaFx)
