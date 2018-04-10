@@ -1,2 +1,2 @@
-# MP-Comp-tences-Rest-WS
+# MP-WS Rest - MP Compétences
 MP-Compétences Rest WS
